@@ -1,0 +1,7 @@
+Q:
+custom add action in SQLFORM.grid??
+SQLFORM.grid links style like default buttons
+
+# to many fields, why:
+db.auth_user.user_type == type and db.auth_user.registration_key == 'pending'
+lekarz.py grid(left = .on ) 
